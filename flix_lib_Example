@@ -1,3 +1,6 @@
+--https://cdn.discordapp.com/attachments/779789519989374992/795744887475142736/6a5_1.gif
+
+
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
 
 local win = Flux:Window("PREVIEW", "Baseplate", Color3.fromRGB(255, 110, 48), Enum.KeyCode.LeftControl)
