@@ -1,0 +1,9 @@
+local Notify = AkaliNotif.Notify;
+
+Notify({
+    Description = " bla bla bla bla ";
+    Title = " bla bla bla bla";
+    Duration = 5;
+    });
+    
+    
