@@ -1,5 +1,4 @@
------orginalloadstring:https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua---
-
+--orgloadstring:https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua--
 
 local Kavo = {}
 
